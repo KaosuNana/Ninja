@@ -1,0 +1,104 @@
+
+dabang.png
+size: 236,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 0, 2
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 136, 6
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 88, 63
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 134, 77
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 52, 0
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 212, 41
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 177, 35
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 132, 30
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 172, 1
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 98, 6
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 199, 5
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 88, 29
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 177, 71
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+dabang
+  rotate: false
+  xy: 0, 25
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

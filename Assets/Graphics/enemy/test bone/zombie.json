@@ -1,0 +1,119 @@
+{
+"skeleton": {
+	"hash": "zzsON1oozgTlGlIMN++jUlJRJL8",
+	"spine": "3.6.53",
+	"width": 354.45,
+	"height": 273.54,
+	"images": "C:/Users/Admin/Desktop/test spine/images"
+},
+"bones": [
+	{ "name": "root", "x": 2.2, "y": 82.5 },
+	{ "name": "L_Leg_IK", "parent": "root", "x": 72.26, "y": -67.7, "color": "ff3f00ff" },
+	{ "name": "R_Leg_IK", "parent": "root", "x": -23, "y": -67.7, "color": "ff3f00ff" },
+	{ "name": "hip", "parent": "root", "x": -2.2, "y": -82.5 },
+	{ "name": "chanphai_01", "parent": "hip", "length": 35.47, "rotation": -111.95, "x": -19.81, "y": 67.34 },
+	{ "name": "chanphai_02", "parent": "chanphai_01", "length": 25.71, "rotation": 50.47, "x": 35.37, "y": 1.55 },
+	{ "name": "chanphai_03", "parent": "chanphai_02", "length": 24.85, "rotation": -88.92, "x": 23.04, "y": -0.79 },
+	{ "name": "chantrai_01", "parent": "hip", "length": 47.91, "rotation": -45, "x": 20.45, "y": 76.67 },
+	{ "name": "chantrai_02", "parent": "chantrai_01", "length": 26.79, "rotation": -3.72, "x": 50.69, "y": -2.78 },
+	{ "name": "chantrai_03", "parent": "chantrai_02", "length": 14.71, "rotation": -66.99, "x": 31.36, "y": -0.75 },
+	{ "name": "than", "parent": "hip", "length": 85.51, "rotation": 99.38, "x": 0.68, "y": 66.34 },
+	{ "name": "dau_01", "parent": "than", "length": 79.74, "rotation": 108.92, "x": 120.03, "y": 0.45 },
+	{ "name": "dau_02", "parent": "dau_01", "length": 69.82, "rotation": 24.99, "x": 4.99, "y": 12.37 },
+	{ "name": "tayphai_01", "parent": "than", "length": 35.36, "rotation": 143.35, "x": 70.04, "y": 20.16 },
+	{ "name": "tayphai_02", "parent": "tayphai_01", "length": 22.39, "rotation": -24.85, "x": 41.73, "y": -0.58 },
+	{ "name": "tayphai_03", "parent": "tayphai_02", "length": 24.38, "rotation": -3.54, "x": 27.39, "y": -0.78 },
+	{ "name": "kiem", "parent": "tayphai_03", "length": 135.12, "rotation": -54.08, "x": 27.63, "y": -13.52 },
+	{ "name": "taytrai_01", "parent": "than", "length": 35.03, "rotation": -158.14, "x": 94.96, "y": -18.79 },
+	{ "name": "taytrai_02", "parent": "taytrai_01", "length": 36.13, "rotation": -78.44, "x": 35.18, "y": -3.54 },
+	{ "name": "taytrai_03", "parent": "taytrai_02", "length": 21.69, "rotation": 52.4, "x": 37.6, "y": -2.03 }
+],
+"slots": [
+	{ "name": "kiem", "bone": "kiem", "attachment": "kiem" },
+	{ "name": "than", "bone": "than", "attachment": "than" },
+	{ "name": "tayphai_01", "bone": "tayphai_01", "attachment": "tayphai_01" },
+	{ "name": "tayphai_02", "bone": "tayphai_02", "attachment": "tayphai_02" },
+	{ "name": "tayphai_03", "bone": "tayphai_03", "attachment": "tayphai_03" },
+	{ "name": "taytrai_01", "bone": "taytrai_01", "attachment": "taytrai_01" },
+	{ "name": "taytrai_02", "bone": "taytrai_02", "attachment": "taytrai_02" },
+	{ "name": "taytrai_03", "bone": "taytrai_03", "attachment": "taytrai_03" },
+	{ "name": "chantrai_03", "bone": "chantrai_03", "attachment": "chantrai_03" },
+	{ "name": "chantrai_02", "bone": "chantrai_02", "attachment": "chantrai_02" },
+	{ "name": "chanphai_02", "bone": "chanphai_02", "attachment": "chanphai_02" },
+	{ "name": "chanphai_03", "bone": "chanphai_03", "attachment": "chanphai_03" },
+	{ "name": "chanphai_01", "bone": "chanphai_01", "attachment": "chanphai_01" },
+	{ "name": "chantrai_01", "bone": "chantrai_01", "attachment": "chantrai_01" },
+	{ "name": "dau_02", "bone": "dau_02", "attachment": "dau_02" },
+	{ "name": "dau_01", "bone": "dau_01", "attachment": "dau_01" }
+],
+"ik": [
+	{
+		"name": "L_Leg_IK",
+		"order": 1,
+		"bones": [ "chantrai_01", "chantrai_02" ],
+		"target": "L_Leg_IK",
+		"bendPositive": false
+	},
+	{
+		"name": "R_Leg_IK",
+		"order": 0,
+		"bones": [ "chanphai_01", "chanphai_02" ],
+		"target": "R_Leg_IK"
+	}
+],
+"skins": {
+	"default": {
+		"chanphai_01": {
+			"chanphai_01": { "x": 19.34, "y": -4.8, "rotation": 111.95, "width": 61, "height": 52 }
+		},
+		"chanphai_02": {
+			"chanphai_02": { "x": 14.91, "y": 2.82, "rotation": 61.48, "width": 32, "height": 36 }
+		},
+		"chanphai_03": {
+			"chanphai_03": { "x": 12.84, "y": 0.91, "rotation": 150.4, "width": 48, "height": 20 }
+		},
+		"chantrai_01": {
+			"chantrai_01": { "x": 23, "y": -0.3, "rotation": 45, "width": 67, "height": 58 }
+		},
+		"chantrai_02": {
+			"chantrai_02": { "x": 15.99, "y": -2.5, "rotation": 48.72, "width": 46, "height": 40 }
+		},
+		"chantrai_03": {
+			"chantrai_03": { "x": 7.93, "y": 2.2, "rotation": 115.71, "width": 36, "height": 23 }
+		},
+		"dau_01": {
+			"dau_01": { "x": 18.2, "y": -24.58, "rotation": 151.7, "width": 196, "height": 141 }
+		},
+		"dau_02": {
+			"dau_02": { "x": 37.77, "y": -2.59, "rotation": 126.71, "width": 83, "height": 83 }
+		},
+		"kiem": {
+			"kiem": { "x": 61.3, "y": -16.23, "rotation": -160.25, "width": 218, "height": 123 }
+		},
+		"tayphai_01": {
+			"tayphai_01": { "x": 16.96, "y": -4.63, "rotation": 117.28, "width": 47, "height": 50 }
+		},
+		"tayphai_02": {
+			"tayphai_02": { "x": 10.18, "y": 0.48, "rotation": 142.13, "width": 40, "height": 29 }
+		},
+		"tayphai_03": {
+			"tayphai_03": { "x": 16, "y": -2.54, "rotation": 145.67, "width": 48, "height": 40 }
+		},
+		"taytrai_01": {
+			"taytrai_01": { "x": 19.35, "y": 6.09, "rotation": 58.76, "width": 56, "height": 57 }
+		},
+		"taytrai_02": {
+			"taytrai_02": { "x": 14.77, "y": 1.27, "rotation": 137.2, "width": 50, "height": 44 }
+		},
+		"taytrai_03": {
+			"taytrai_03": { "x": 8.88, "y": 4.71, "rotation": 84.81, "width": 41, "height": 39 }
+		},
+		"than": {
+			"than": { "x": 45.37, "y": -9.84, "rotation": -99.38, "width": 84, "height": 113 }
+		}
+	}
+},
+"animations": {
+	"idle": {}
+}
+}

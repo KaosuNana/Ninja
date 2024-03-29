@@ -1,0 +1,174 @@
+
+hostage.png
+size: 974,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 7 copy
+  rotate: false
+  xy: 373, 2
+  size: 143, 32
+  orig: 143, 32
+  offset: 0, 0
+  index: -1
+Group 1 copy
+  rotate: false
+  xy: 2, 464
+  size: 603, 543
+  orig: 603, 543
+  offset: 0, 0
+  index: -1
+Group 1 copy 2
+  rotate: false
+  xy: 2, 410
+  size: 599, 52
+  orig: 599, 52
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 857, 587
+  size: 420, 79
+  orig: 420, 79
+  offset: 0, 0
+  index: -1
+Layer 123
+  rotate: false
+  xy: 2, 2
+  size: 149, 202
+  orig: 149, 202
+  offset: 0, 0
+  index: -1
+Layer 125
+  rotate: false
+  xy: 607, 434
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Layer 127 copy
+  rotate: false
+  xy: 655, 219
+  size: 97, 213
+  orig: 97, 213
+  offset: 0, 0
+  index: -1
+Layer 128
+  rotate: false
+  xy: 412, 311
+  size: 238, 97
+  orig: 238, 97
+  offset: 0, 0
+  index: -1
+Layer 130
+  rotate: true
+  xy: 373, 36
+  size: 151, 226
+  orig: 151, 226
+  offset: 0, 0
+  index: -1
+Layer 132
+  rotate: true
+  xy: 601, 11
+  size: 176, 86
+  orig: 176, 86
+  offset: 0, 0
+  index: -1
+Layer 133
+  rotate: false
+  xy: 689, 4
+  size: 87, 213
+  orig: 87, 213
+  offset: 0, 0
+  index: -1
+Layer 135
+  rotate: true
+  xy: 778, 11
+  size: 155, 52
+  orig: 155, 52
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 740, 611
+  size: 396, 115
+  orig: 396, 115
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 206
+  size: 414, 83
+  orig: 414, 83
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 291
+  size: 408, 117
+  orig: 408, 117
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 938, 594
+  size: 413, 34
+  orig: 413, 34
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 856, 260
+  size: 325, 95
+  orig: 325, 95
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 607, 603
+  size: 404, 131
+  orig: 404, 131
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 776, 314
+  size: 295, 78
+  orig: 295, 78
+  offset: 0, 0
+  index: -1
+Rectangle 3
+  rotate: false
+  xy: 778, 168
+  size: 154, 90
+  orig: 154, 90
+  offset: 0, 0
+  index: -1
+Shape 2 copy 2
+  rotate: true
+  xy: 832, 29
+  size: 137, 46
+  orig: 137, 46
+  offset: 0, 0
+  index: -1
+Shape 22 copy
+  rotate: false
+  xy: 418, 189
+  size: 235, 120
+  orig: 235, 120
+  offset: 0, 0
+  index: -1
+Shape 23 copy 2
+  rotate: false
+  xy: 153, 24
+  size: 218, 180
+  orig: 218, 180
+  offset: 0, 0
+  index: -1
+Shape 3
+  rotate: false
+  xy: 518, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1

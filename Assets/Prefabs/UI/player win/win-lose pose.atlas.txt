@@ -1,0 +1,76 @@
+
+win-lose pose.png
+size: 970,783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose_p1
+  rotate: false
+  xy: 543, 389
+  size: 176, 392
+  orig: 176, 392
+  offset: 0, 0
+  index: -1
+lose_p2
+  rotate: false
+  xy: 183, 387
+  size: 176, 394
+  orig: 176, 394
+  offset: 0, 0
+  index: -1
+lose_p3
+  rotate: true
+  xy: 576, 211
+  size: 176, 392
+  orig: 176, 392
+  offset: 0, 0
+  index: -1
+lose_p4
+  rotate: false
+  xy: 361, 389
+  size: 180, 392
+  orig: 180, 392
+  offset: 0, 0
+  index: -1
+lose_p5
+  rotate: false
+  xy: 2, 384
+  size: 179, 397
+  orig: 179, 397
+  offset: 0, 0
+  index: -1
+win_p1
+  rotate: false
+  xy: 721, 391
+  size: 182, 390
+  orig: 182, 390
+  offset: 0, 0
+  index: -1
+win_p2
+  rotate: true
+  xy: 576, 27
+  size: 182, 390
+  orig: 182, 390
+  offset: 0, 0
+  index: -1
+win_p3
+  rotate: false
+  xy: 187, 5
+  size: 182, 380
+  orig: 182, 380
+  offset: 0, 0
+  index: -1
+win_p4
+  rotate: false
+  xy: 2, 2
+  size: 183, 380
+  orig: 183, 380
+  offset: 0, 0
+  index: -1
+win_p5
+  rotate: false
+  xy: 371, 3
+  size: 203, 384
+  orig: 203, 384
+  offset: 0, 0
+  index: -1

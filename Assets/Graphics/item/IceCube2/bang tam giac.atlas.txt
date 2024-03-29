@@ -1,0 +1,76 @@
+
+bang tam giac.png
+size: 157,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 113, 36
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 93, 8
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 123, 80
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 86, 32
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 130, 45
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 0, 0
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 22, 4
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 62, 5
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 86, 77
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+bang tam giac
+  rotate: false
+  xy: 0, 30
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

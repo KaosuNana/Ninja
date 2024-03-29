@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500102252484",
+    "project_id": "stickmanninja-a121a",
+    "storage_bucket": "stickmanninja-a121a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500102252484:android:91b7400ba22bbe2ca74691",
+        "android_client_info": {
+          "package_name": "com.s4t.stickmanninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500102252484-u2o5tc7l1el9gob43l3a0pnm7uvd9q8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOIy1Y42IKQnCX8lH5MlDPRdlMB0bnLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500102252484-u2o5tc7l1el9gob43l3a0pnm7uvd9q8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

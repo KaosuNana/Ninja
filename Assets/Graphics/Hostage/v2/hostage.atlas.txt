@@ -1,0 +1,174 @@
+
+hostage.png
+size: 297,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 7 copy
+  rotate: false
+  xy: 255, 34
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+Group 1 copy
+  rotate: true
+  xy: 2, 4
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1
+Group 1 copy 2
+  rotate: true
+  xy: 96, 5
+  size: 102, 9
+  orig: 102, 9
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 107, 36
+  size: 71, 13
+  orig: 71, 13
+  offset: 0, 0
+  index: -1
+Layer 123
+  rotate: false
+  xy: 146, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Layer 125
+  rotate: false
+  xy: 190, 8
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Layer 127 copy
+  rotate: false
+  xy: 220, 3
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+Layer 128
+  rotate: false
+  xy: 255, 69
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+Layer 130
+  rotate: true
+  xy: 242, 41
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Layer 132
+  rotate: true
+  xy: 173, 6
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+Layer 133
+  rotate: false
+  xy: 238, 3
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+Layer 135
+  rotate: false
+  xy: 214, 41
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 192, 40
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 122, 37
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 170, 38
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 138, 37
+  size: 70, 6
+  orig: 70, 6
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 214, 52
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 146, 38
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 282, 17
+  size: 50, 13
+  orig: 50, 13
+  offset: 0, 0
+  index: -1
+Rectangle 3
+  rotate: true
+  xy: 255, 6
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Shape 2 copy 2
+  rotate: true
+  xy: 232, 84
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+Shape 22 copy
+  rotate: false
+  xy: 255, 87
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+Shape 23 copy 2
+  rotate: false
+  xy: 107, 3
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Shape 3
+  rotate: false
+  xy: 232, 77
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

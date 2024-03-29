@@ -1,0 +1,139 @@
+
+walk2.png
+size: 235,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 7 copy
+  rotate: false
+  xy: 2, 8
+  size: 139, 34
+  orig: 139, 34
+  offset: 0, 0
+  index: -1
+Layer 103 copy
+  rotate: false
+  xy: 165, 4
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Layer 111
+  rotate: false
+  xy: 212, 163
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Layer 115
+  rotate: false
+  xy: 199, 85
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Layer 130
+  rotate: false
+  xy: 162, 67
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Layer 134
+  rotate: false
+  xy: 201, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Layer 134 copy
+  rotate: false
+  xy: 199, 53
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Layer 134 copy 2
+  rotate: false
+  xy: 199, 43
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Layer 141
+  rotate: false
+  xy: 162, 146
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+Layer 157
+  rotate: false
+  xy: 162, 107
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Layer 159
+  rotate: false
+  xy: 212, 148
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Layer 160
+  rotate: false
+  xy: 199, 63
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+Layer 161
+  rotate: true
+  xy: 215, 122
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Shape 27 copy 4
+  rotate: false
+  xy: 143, 24
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Shape 28
+  rotate: false
+  xy: 162, 36
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Shape 29 copy 4
+  rotate: false
+  xy: 201, 117
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+Shape 29 copy 5
+  rotate: false
+  xy: 143, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+khien3
+  rotate: false
+  xy: 2, 44
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 190, 7
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

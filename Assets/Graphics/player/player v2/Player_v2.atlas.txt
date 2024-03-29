@@ -1,0 +1,237 @@
+
+Player_v2.png
+size: 359,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 2 copy
+  rotate: true
+  xy: 195, 6
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: false
+  xy: 43, 2
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+Layer 52
+  rotate: true
+  xy: 2, 29
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Layer 53
+  rotate: false
+  xy: 140, 37
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Layer 55
+  rotate: false
+  xy: 233, 41
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: false
+  xy: 253, 41
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Layer 58
+  rotate: false
+  xy: 263, 64
+  size: 81, 12
+  orig: 81, 12
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: false
+  xy: 2, 2
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Layer 60
+  rotate: false
+  xy: 78, 4
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Layer_58
+  rotate: false
+  xy: 272, 50
+  size: 81, 12
+  orig: 81, 12
+  offset: 0, 0
+  index: -1
+Layer_58b
+  rotate: false
+  xy: 272, 36
+  size: 81, 12
+  orig: 81, 12
+  offset: 0, 0
+  index: -1
+Layer_60
+  rotate: true
+  xy: 103, 4
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Layer_61
+  rotate: true
+  xy: 346, 71
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+Layer_62
+  rotate: true
+  xy: 181, 37
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+Layer_62a
+  rotate: true
+  xy: 194, 37
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+Layer_64
+  rotate: true
+  xy: 224, 13
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Layer_65
+  rotate: false
+  xy: 346, 64
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Layer_66
+  rotate: false
+  xy: 215, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Red_armor
+  rotate: true
+  xy: 215, 12
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+Red_claw
+  rotate: true
+  xy: 253, 70
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Red_cloth
+  rotate: false
+  xy: 262, 22
+  size: 81, 12
+  orig: 81, 12
+  offset: 0, 0
+  index: -1
+Red_hair
+  rotate: true
+  xy: 166, 6
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Red_sword
+  rotate: true
+  xy: 207, 37
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+Shape 12
+  rotate: false
+  xy: 40, 30
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+Shape 15
+  rotate: true
+  xy: 220, 37
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+Shape 16
+  rotate: true
+  xy: 54, 3
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+gold_cloth
+  rotate: false
+  xy: 263, 8
+  size: 81, 12
+  orig: 81, 12
+  offset: 0, 0
+  index: -1
+gold_giapp
+  rotate: true
+  xy: 246, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+gold_giaptay
+  rotate: false
+  xy: 234, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+gold_giaptrai
+  rotate: false
+  xy: 253, 58
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+gold_hair
+  rotate: true
+  xy: 243, 18
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+gold_head
+  rotate: false
+  xy: 126, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+gold_sword
+  rotate: true
+  xy: 126, 33
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1

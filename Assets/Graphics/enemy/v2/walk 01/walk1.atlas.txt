@@ -1,0 +1,97 @@
+
+walk1.png
+size: 231,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 7 copy
+  rotate: true
+  xy: 76, 27
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+Layer 103 copy
+  rotate: true
+  xy: 76, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Layer 111
+  rotate: false
+  xy: 47, 6
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Layer 115
+  rotate: true
+  xy: 122, 31
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+Layer 157
+  rotate: true
+  xy: 2, 7
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Layer 159
+  rotate: true
+  xy: 163, 5
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Layer 160
+  rotate: false
+  xy: 207, 4
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Layer 161
+  rotate: false
+  xy: 209, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Shape 27 copy 4
+  rotate: false
+  xy: 181, 32
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+Shape 28
+  rotate: false
+  xy: 137, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Shape 29 copy 4
+  rotate: true
+  xy: 152, 32
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+Shape 29 copy 5
+  rotate: false
+  xy: 185, 10
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 108, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

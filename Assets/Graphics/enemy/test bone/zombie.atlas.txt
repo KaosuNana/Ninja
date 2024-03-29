@@ -1,0 +1,118 @@
+
+zombie.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai_01
+  rotate: false
+  xy: 420, 103
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+chanphai_02
+  rotate: false
+  xy: 168, 20
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+chanphai_03
+  rotate: true
+  xy: 483, 107
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+chantrai_01
+  rotate: false
+  xy: 88, 57
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+chantrai_02
+  rotate: false
+  xy: 317, 57
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+chantrai_03
+  rotate: true
+  xy: 408, 61
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dau_01
+  rotate: false
+  xy: 222, 99
+  size: 196, 141
+  orig: 196, 141
+  offset: 0, 0
+  index: -1
+dau_02
+  rotate: false
+  xy: 420, 157
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: false
+  xy: 2, 117
+  size: 218, 123
+  orig: 218, 123
+  offset: 0, 0
+  index: -1
+tayphai_01
+  rotate: false
+  xy: 88, 5
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+tayphai_02
+  rotate: true
+  xy: 137, 15
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+tayphai_03
+  rotate: false
+  xy: 267, 57
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+taytrai_01
+  rotate: false
+  xy: 157, 58
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+taytrai_02
+  rotate: false
+  xy: 215, 53
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+taytrai_03
+  rotate: false
+  xy: 365, 58
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1

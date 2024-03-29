@@ -1,0 +1,146 @@
+
+thunggo.png
+size: 962,765
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 792, 19
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 792, 138
+  size: 131, 168
+  orig: 131, 168
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 826, 269
+  size: 136, 188
+  orig: 136, 188
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 738, 457
+  size: 138, 196
+  orig: 138, 196
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 738, 627
+  size: 138, 198
+  orig: 138, 198
+  offset: 0, 0
+  index: -1
+60013
+  rotate: false
+  xy: 0, 369
+  size: 369, 396
+  orig: 369, 396
+  offset: 0, 0
+  index: -1
+60014
+  rotate: true
+  xy: 0, 0
+  size: 369, 396
+  orig: 369, 396
+  offset: 0, 0
+  index: -1
+60015
+  rotate: false
+  xy: 369, 369
+  size: 369, 396
+  orig: 369, 396
+  offset: 0, 0
+  index: -1
+60016
+  rotate: true
+  xy: 396, 0
+  size: 369, 396
+  orig: 369, 396
+  offset: 0, 0
+  index: -1
+Layer 0
+  rotate: true
+  xy: 906, 60
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 936, 647
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 934, 555
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 936, 706
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 849, 604
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 936, 595
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 897, 599
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 790, 608
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 738, 605
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 934, 510
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+hopgo
+  rotate: false
+  xy: 738, 369
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

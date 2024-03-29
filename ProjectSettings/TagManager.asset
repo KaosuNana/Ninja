@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - playerShuriken
+  - player
+  - enemyMovingRange
+  - enemy
+  - playerPosition
+  - wall
+  - ground
+  - bounceItem
+  - playerDynamite
+  - hostage
+  - playerSuperShuriken
+  - bombBox
+  - canon
+  - iceCube
+  - metalBall
+  - spikeWheel
+  - woodenBar
+  - woodenBox
+  - spinWoodenBar
+  - metalBox
+  - buttons
+  - UIController
+  - MapObjects
+  - woodenBarWithSteel
+  - DialogShop
+  - uiweapon
+  - MainMenuController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LevelItems
+  - Blowable
+  - PenShuriken
+  - FrictionlessWall
+  - Enemy
+  - DisableCollision
+  - Weapon
+  - IgnoreShuriken
+  - MovingRange
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - NGUI
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 865256791
+    locked: 0
+  - name: Wall
+    uniqueID: 1876308251
+    locked: 0
+  - name: Enemy
+    uniqueID: 2994088339
+    locked: 0
+  - name: Item
+    uniqueID: 3576104281
+    locked: 0
+  - name: Player
+    uniqueID: 2365950405
+    locked: 0
+  - name: UI
+    uniqueID: 285858641
+    locked: 0

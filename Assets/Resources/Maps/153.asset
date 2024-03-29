@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06b931a4c1550bb43a0060c6efed0724, type: 3}
+  m_Name: 153
+  m_EditorClassIdentifier: 
+  levelObjects:
+  - prefab: {fileID: 1286157004335034, guid: 9649fc55b2254db4b9d700a0f41f1488, type: 2}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1755172663649646, guid: 7886f482ab41f064eb1a5c8c57cb06d8, type: 2}
+    position: {x: -4.02, y: -0.57, z: -0.095703125}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1187374165860342, guid: 064cb4a96cf01c64aab2f99eef04e482, type: 2}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1095656325729452, guid: b3469eb22e5efd24fadd9505bc9fae61, type: 2}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1187374165860342, guid: 064cb4a96cf01c64aab2f99eef04e482, type: 2}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1595403765020146, guid: bc362768d469ebd4b91d0d55568aa3d4, type: 2}
+    position: {x: 4.39, y: 0.58, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.65, y: 0.65, z: 1}
+  - prefab: {fileID: 1726150578564952, guid: 0953c74837ac3b6419d31411c1116118, type: 2}
+    position: {x: 3.08, y: 0.77, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1726150578564952, guid: 0953c74837ac3b6419d31411c1116118, type: 2}
+    position: {x: 3.02, y: 3.02, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1403760994535600, guid: 29cfcf20a99a309408b6b28f32ad60fa, type: 2}
+    position: {x: 3.89, y: 0.37, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.7, y: 0.7, z: 1}
+  - prefab: {fileID: 1726150578564952, guid: 0953c74837ac3b6419d31411c1116118, type: 2}
+    position: {x: -5.01, y: 0.76, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1618872505584600, guid: 15524aecda804b94a8c97c0dc4a0f7e1, type: 2}
+    position: {x: 0.14, y: -0.82, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.65, y: 0.7, z: 1}
+  - prefab: {fileID: 1967509465380408, guid: 1b070fd3491db1d4bb59af31e3832663, type: 2}
+    position: {x: 0.64, y: -0.97, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.18, y: 0.18, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: 2.53, y: -1.71, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.73, y: 0.73, z: 1}
+  - prefab: {fileID: 1635168433356136, guid: 64e5ff1063b60594fbe74a99c18901e5, type: 2}
+    position: {x: 0.57, y: 0.11, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.18, y: 0.18, z: 1}
+  - prefab: {fileID: 1336148264018370, guid: 69f0c8793b1c65f488da25db5920ba10, type: 2}
+    position: {x: -2.92, y: 1.69, z: 0}
+    rotation: {x: -0, y: 180, z: -6.3649867e-15}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1726150578564952, guid: 0953c74837ac3b6419d31411c1116118, type: 2}
+    position: {x: 1.26, y: 0.67, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1965786999044188, guid: ef0d8a6dcd2703f4b975578210d1ee0a, type: 2}
+    position: {x: 2.01, y: 0.85, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: -0.75, y: 0.75, z: 1}
+  - prefab: {fileID: 1951535136422276, guid: 5458ff10677b08e489b2b2284417a7dc, type: 2}
+    position: {x: 3.14, y: -1.34, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1583829962404332, guid: 06d35aa50215a8040abb5d0418c6a31a, type: 2}
+    position: {x: -4.47, y: -1.34, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1618872505584600, guid: 15524aecda804b94a8c97c0dc4a0f7e1, type: 2}
+    position: {x: 3.18, y: -1.54, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.65, y: 0.7, z: 1}
+  - prefab: {fileID: 1618872505584600, guid: 15524aecda804b94a8c97c0dc4a0f7e1, type: 2}
+    position: {x: -2.91, y: 1.5, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.55, y: 0.7, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: 1.94, y: -1.71, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: -0.73, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -0.49, y: -0.63, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: -0.72999996, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1382068997896852, guid: c1716ba5f4eaf4bc5b3357e96467a0ea, type: 2}
+    position: {x: 3.13, y: 1.32, z: 0}
+    rotation: {x: 0, y: 180, z: 0}
+    scale: {x: 0.18, y: 0.18, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -1.1, y: -0.63, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.73, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -2.48, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.72999996, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -1.32, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.72999996, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -0.12, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.72999996, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: 1.08, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.72999996, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: 0.49, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: -0.73, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -0.71, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: -0.72999996, y: 0.72999996, z: 1}
+  - prefab: {fileID: 1638032767925480, guid: ff721d3082b147247af5c2b7cf7edb51, type: 2}
+    position: {x: -1.89, y: 1.69, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: -0.72999996, y: 0.72999996, z: 1}

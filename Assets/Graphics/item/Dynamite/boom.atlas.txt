@@ -1,0 +1,90 @@
+
+boom.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 176, 148
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 161, 137
+  orig: 161, 137
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 186, 326
+  size: 181, 173
+  orig: 181, 173
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 326
+  size: 182, 173
+  orig: 182, 173
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 141
+  size: 183, 172
+  orig: 183, 172
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 369, 329
+  size: 183, 170
+  orig: 183, 170
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 554, 331
+  size: 182, 168
+  orig: 182, 168
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 738, 333
+  size: 182, 166
+  orig: 182, 166
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 356, 144
+  size: 180, 164
+  orig: 180, 164
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 694, 166
+  size: 163, 156
+  orig: 163, 156
+  offset: 0, 0
+  index: -1
+Layer 0
+  rotate: false
+  xy: 522, 155
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 922, 480
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1

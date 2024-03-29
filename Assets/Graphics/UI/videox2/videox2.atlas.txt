@@ -1,0 +1,27 @@
+
+videox2.png
+size: 323,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow (13)
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+video x2
+  rotate: true
+  xy: 260, 166
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+video x2b
+  rotate: true
+  xy: 260, 72
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1

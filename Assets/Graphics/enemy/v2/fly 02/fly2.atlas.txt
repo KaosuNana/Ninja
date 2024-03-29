@@ -1,0 +1,118 @@
+
+fly2.png
+size: 235,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 2 copy 3
+  rotate: false
+  xy: 151, 30
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Layer 103 copy 2
+  rotate: true
+  xy: 65, 4
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Layer 119
+  rotate: false
+  xy: 190, 52
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Layer 127
+  rotate: false
+  xy: 2, 29
+  size: 147, 47
+  orig: 147, 47
+  offset: 0, 0
+  index: -1
+Layer 143
+  rotate: true
+  xy: 174, 10
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Layer 144
+  rotate: true
+  xy: 190, 20
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Layer 145
+  rotate: true
+  xy: 46, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Layer 146
+  rotate: true
+  xy: 123, 2
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+Layer 148
+  rotate: true
+  xy: 189, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Layer 149
+  rotate: true
+  xy: 2, 5
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Layer 150
+  rotate: false
+  xy: 221, 22
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+Layer 152
+  rotate: true
+  xy: 151, 10
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Layer 153
+  rotate: true
+  xy: 123, 13
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+Layer 154
+  rotate: true
+  xy: 190, 35
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+Layer 155
+  rotate: false
+  xy: 97, 3
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Layer 164
+  rotate: true
+  xy: 142, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
